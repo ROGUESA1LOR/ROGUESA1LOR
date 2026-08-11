@@ -6,10 +6,10 @@ Right now I'm relearning computer science from first principles and documenting 
 
 ## What I'm building
 
-- 🧠 AI & LLM applications
-- ⚙️ Backend systems & APIs
-- 🤖 Robotics & Embedded Systems
-- 🐧 Linux-based development
+-  AI & LLM applications
+-  Backend systems & APIs
+-  Robotics & Embedded Systems
+-  Linux-based development
 
 ## Current Toolbox
 
