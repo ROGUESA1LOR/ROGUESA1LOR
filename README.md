@@ -14,10 +14,10 @@ Right now I'm relearning computer science from first principles and documenting 
 ## Current Toolbox
 
 ```text
-Languages      Python • C++ • SQL
+Languages      Python • C++ • SQL • bash • MongoDB
 Backend        FastAPI • PostgreSQL
 AI             PyTorch • Transformers • RAG
-Embedded       ESP32 • Arduino
+Embedded       ESP32 • Arduino • Raspberrypi 2040
 Tools          Docker • Git • Linux
 ```
 
