@@ -1,41 +1,47 @@
 # Hey, I'm Hassan 👋
 
-I'm the person who likes taking things apart just to understand how they work, then building them back better.
+I like taking systems apart to understand how they work, then building them back better.
 
-Right now I'm relearning computer science from first principles and documenting the journey through projects instead of tutorials.
+I'm focused on **Python backend development, AI applications, and systems that connect the two**. I also build with embedded hardware when I want to get closer to the machine.
 
-## What I'm building
+## What I build
 
--  AI & LLM applications
--  Backend systems & APIs
--  Robotics & Embedded Systems
--  Linux-based development
+- **AI applications** · LLMs, RAG, local inference, automation
+- **Backend systems** · Python, FastAPI, REST APIs, async processing
+- **Data systems** · PostgreSQL, MongoDB, vector retrieval
+- **Systems & tooling** · Linux, Bash, Git, containers
+- **Embedded** · ESP32, Arduino, Raspberry Pi Pico / RP2040
 
-## Current Toolbox
+## Selected work
+
+### 🤖 Agentic CI Flake Classifier
+A local AI pipeline that connects to the GitHub REST API, ingests failed workflow telemetry, filters log noise, maintains state, and uses local Ollama models to classify failures.
+
+→ [View the project](https://github.com/ROGUESA1LOR/AI_engineering/tree/main/podman-agentic-ci-prototype)
+
+### 🧠 Duo Agent Debate
+A Bash based local multi-agent experiment using two Ollama models, shared state, FIFO synchronization, and human moderation.
+
+→ [View the project](https://github.com/ROGUESA1LOR/AI_engineering/tree/main/duo-agent-debate)
+
+### 🔌 ESP32 Lab
+Small embedded experiments with ESP32, including GPIO, LED and servo control.
+
+→ [View the repository](https://github.com/ROGUESA1LOR/Esp32sketches)
+
+## Toolbox
 
 ```text
-Languages      Python • C++ • SQL • bash • MongoDB
-Backend        FastAPI • PostgreSQL
-AI             PyTorch • Transformers • RAG
-Embedded       ESP32 • Arduino • Raspberrypi 2040
-Tools          Docker • Git • Linux
+Python       FastAPI       PostgreSQL       MongoDB
+PyTorch      Transformers  RAG              Ollama
+C++          ESP32         Arduino          RP2040
+Linux        Bash          Git              Docker
 ```
 
-## Current Mission
+## Current direction
 
-Turning ideas into projects.
+Building useful systems instead of collecting tutorials.
 
-Every repository here is either something I'm learning, experimenting with, or building from scratch.
+I care more about understanding how a system works than memorizing how to use it.
 
-## A few things I believe
-
-- Build first, optimize later.
-- Understanding beats memorization.
-- Simple solutions usually win.
-- If it isn't documented, future me will hate present me.
-
----
-
-> "The best way to understand a system is to build one."
-
-Thanks for stopping by.
+> Build it. Break it. Understand it. Build it better.
