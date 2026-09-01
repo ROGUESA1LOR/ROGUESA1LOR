@@ -5,7 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+Backend+Engineer;Python+%26+FastAPI+Developer;Open+Source+Contributor;Embedded+Systems+%26+Robotics+Builder)](https://git.io/typing-svg)
 
 </div>
+<div align="center">
 
+<img src="./images.jpg" width="280" alt="Hassan Wazir">
+
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ROGUESA1LOR&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
