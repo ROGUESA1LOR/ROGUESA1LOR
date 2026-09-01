@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 
-<img src="./images.jpg" width="280" alt="Hassan Wazir">
+<img src="./images.jpeg" width="280" alt="Hassan Wazir">
 
 </div>
 <p align="center">
