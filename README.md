@@ -1,4 +1,4 @@
-# Hi there, I'm **Hassan Wazir** 👋
+# **Hassan Wazir** 
 
 <div align="center">
 
@@ -12,19 +12,19 @@
 
 ---
 
-### 💫 About Me
+### About Me
 
-- 🎓 **Computer Science undergraduate** at the University of Haripur.
-- 🤖 **AI Engineer** focused on LLM applications, automation, data extraction, and backend systems.
-- 🐍 Building mainly with **Python**, especially FastAPI, async services, APIs, and AI tooling.
-- ⚙️ Interested in **systems engineering**, Linux, containers, databases, concurrency, and developer tooling.
-- 🌐 Contributing to **open source**, including work around AI benchmarking and cloud edge systems.
-- 🔧 Expanding into **embedded systems, robotics, computer vision, and edge AI** using ESP32 and RP2040.
-- 🖨️ Exploring the intersection of **AI + software + physical systems**, from autonomous tooling to 3D printing.
+- **Computer Science undergraduate** at the University of Haripur.
+- **AI Engineer** focused on LLM applications, automation, data extraction, and backend systems.
+- Building mainly with **Python**, especially FastAPI, async services, APIs, and AI tooling.
+- Interested in **systems engineering**, Linux, containers, databases, concurrency, and developer tooling.
+- Contributing to **open source**, including work around AI benchmarking and cloud edge systems.
+- Expanding into **embedded systems, robotics, computer vision, and edge AI** using ESP32 and RP2040.
+- Exploring the intersection of **AI + software + physical systems**, from autonomous tooling to 3D printing.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 #### **Languages**
 
@@ -72,31 +72,31 @@
 
 ---
 
-### 🚀 Featured Projects & Work
+### Featured Projects & Work
 
-#### 🤖 Agentic CI Flake Classifier
+#### Agentic CI Flake Classifier
 A local AI pipeline that connects to the GitHub REST API, ingests failed workflow telemetry, filters log noise, maintains state, and uses local Ollama models to classify CI failures.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ROGUESA1LOR/AI_engineering/tree/main/podman-agentic-ci-prototype)
 
-#### 🧠 Duo Agent Debate
+#### Duo Agent Debate
 A Bash based local multi-agent experiment using two Ollama models, shared state, FIFO synchronization, and human moderation.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ROGUESA1LOR/AI_engineering/tree/main/duo-agent-debate)
 
-#### 🌐 KubeEdge Ianvs
+#### KubeEdge Ianvs
 Working with an open source AI benchmarking framework, investigating cloud edge inference, benchmark examples, issues, pull requests, and restoration plans.
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ROGUESA1LOR/ianvs)
 
-#### 🔌 ESP32 Lab
+#### ESP32 Lab
 Embedded experiments with ESP32 and Arduino covering GPIO, LED control, servo control, PWM, and microcontroller fundamentals.
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ROGUESA1LOR/Esp32sketches)
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <div align="center">
 
@@ -111,7 +111,7 @@ Embedded experiments with ESP32 and Arduino covering GPIO, LED control, servo co
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <div align="center">
 
@@ -121,7 +121,7 @@ Embedded experiments with ESP32 and Arduino covering GPIO, LED control, servo co
 
 ---
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <div align="center">
 
@@ -131,7 +131,7 @@ Embedded experiments with ESP32 and Arduino covering GPIO, LED control, servo co
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
 
@@ -141,7 +141,7 @@ Embedded experiments with ESP32 and Arduino covering GPIO, LED control, servo co
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <div align="center">
 
